@@ -22,7 +22,7 @@ if SHIELD_TOTEM_DONGLE
 
 # Max 16 characters in keyboard name
 config ZMK_KEYBOARD_NAME
-    default "My Board"
+    default "TotemDongled"
 
 config ZMK_SPLIT_ROLE_CENTRAL
     default y
