@@ -6,6 +6,8 @@
 
 # ZMK CONFIG FOR THE TOTEM SPLIT KEYBOARD
 
+Uses [YADS](https://github.com/janpfischer/zmk-dongle-screen) - Yet another Dongle Screen for ZMK
+
 [Here](https://github.com/GEIGEIGEIST/totem) you can find the hardware files and build guide.\
 [Here](https://github.com/GEIGEIGEIST/qmk-config-totem) you can find the QMK config for the TOTEM.
 
